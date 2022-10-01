@@ -11,6 +11,7 @@ In most circumstances:
  - Constructiveness
  - Correctness
  - Completeness
+ - Standards compliance
  
  In some circumstances:
  - Real-timeness
@@ -82,6 +83,20 @@ $ TODO: Add examples
 
 #### Examples
 $ TODO: Add examples
+
+### Standards compliance
+
+This is to say reviews can benefit from being made against standards. In most areas of knowledge, there are often more than one way to solve a problem. Different experiences and perspectives will often generate different ways to solve a problem. That diversity of ideas is useful and should be encouraged.
+
+When it comes to technical/design standards, in the context of team working it might be really important to have consistency. For example, consistency in the way a user journey is built, consistency in the way the supporting coding structures of a system are built. Consistency is important in this setting because it gives teams a productivity framework to work from that if well balanced can significantly increase happiness and help produce better results.
+
+Standards help achieve consistency. In certain contexts this might be more difficult than others. For example, in the coding field Angular is a framework for building web applications. It's usually seen as a competitor to React, although React is a library rather than a framework. Because of their natures and purposes, React ends up giving developers more freedom than Angular - Angular being a complete set of tools vs React being a tool that can be combined with several other tools. This often leads to React projects needing and benefitting more from standardization than Angular. By standardization in this context I mean adopting a common set of guidelines on how to build elements of web applications to produce that consistency that will remove opportunity for bikeshedding (meaning: `the act of wasting time on trivial details while important matters are inadequately attended`).
+
+- [ ] TODO: Add example of built-in standards
+- [ ] TODO: Add example of "add-on" standards
+
+#### When it is relevant
+Particularly when working in medium or large teams/communities. Usually, the greater the size of the team, the greated the need for standardisation.
 
 
 ## Example of reviews
