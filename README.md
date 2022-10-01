@@ -18,12 +18,19 @@ In most circumstances:
  
 ### Timeliness
  
-#### Why?
+#### Why and when it is relevant
 
-#### When it is relevant
+In general when pace of progress matters, when time to market (TTM) matters and one is looking to reduce it or keep it low.
+
+Example: in agile software development, reducing time to review can be critical in optimising delivery workflow. In these cases, timeliness of code reviews is of great importance.
 
 #### Examples
-$ TODO: Add examples
+
+```
+Bad: Alice is working on an UX design (let's refer to it as A) and submits it for review. Next she starts working on UX design B, which depends on A. Bob takes 2 days to review it and makes 2 optional comments and requests 2 changes. Alice accepts the change requests and the design is approved. Unfortunately, this ends up impacting design B substantially and Alice needs to restart it which means 2 days of wasted efforts.
+
+Good: Alice is working on an UX design (let's refer to it as A) and submits it for review. Next she starts working on UX design B, which depends on A. Bob reviews it within 2 hours and makes 2 optional comments and requests 2 changes. Alice accepts the change requests and the design is approved. Alice is able to adapt her interim progress on design B in line with the changes made to A with minimal effort and continues her work on design B.
+```
 
 ### Real-timeness
  
