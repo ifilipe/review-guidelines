@@ -47,7 +47,7 @@ $ TODO: Add examples
 Constructive feedback should be encouraging, valuable, practical.
  
 #### Why it is important?
-Regardless of the nature of the work in review (e.g: product feature, linux kernel) and context (startup, corp, open source community), if someone is looking for a review of work the odds are that someone is not working alone and the review is part of a collaboration effort. Depending on the incentives at stake and the people involved, it's not impossible a non-constructive review contribution will still produce results considered good for the involved parties. More often than not though, that won't be the case.
+Regardless of the nature of the work in review (e.g: product feature, linux kernel) and context (startup, corp, open source community) if/when one is looking for a review of work odds are that person/group is not working in isolation and the review is part of a collaboration effort. Depending on the incentives at stake and the people involved, it's not impossible a non-constructive review contribution will still produce results considered good for the involved parties. More often than not though, that won't be the case.
 
 Reasons that might lead one to want keep their review contributions purely constructive:
  - it generally drives more fluid collaboration flows
