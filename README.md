@@ -34,11 +34,10 @@ Good: Alice is working on an UX design (let's refer to it as A) and submits it f
 ### Real-timeness
  
 #### Why?
+Real-timeness of reviews is provided when the author of the work is joined by 1 or more people to produce the work together. Through group working methods, the work is reviewed in real-time as it's being produced. This helps reducing the time to review (potentially very substantially) and also the need to address comments to zero practically as the feedback is provided in real-time which in turn creates an opportunity for course correcting that can be applied on the fly, something that is not possible with other methods such as reviews conducted asynchronously. 
 
 #### When it is relevant
-
-#### Examples
-$ TODO: Add examples
+This is particularly relevant for teams practising Extreme Programming (XP) or otherwise teams that value and practise pairing or mobbing even if not 100% of the time.
 
 ### Conciseness
  
