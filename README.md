@@ -1,11 +1,10 @@
 # review-guidelines
 
-Attempt at collecting universally applicable review practices to the benefit of product and engineering teams and communities.
+Attempt at collecting generic and universally applicable review practices and principles to the benefit of product and engineering teams and communities.
 
 ## What makes a good review?
 
-In most circumstances:
-
+In most circumstances, a good review contains some of the following qualities:
  - Timeliness
  - Conciseness
  - Constructiveness
